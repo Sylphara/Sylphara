@@ -1,10 +1,10 @@
 ## Hey there 👋
 
-## I'm Brandon, an ECE focused student in Pennsylvania.
+I'm Brandon, an ECE focused student in Pennsylvania.
 
-## I am working with C and Linux in order to learn more about low-level programming.
+I am working with C and Linux in order to learn more about low-level programming.
 
-## Here, I will be uploading side projects, notes, as well as other small experiments.
+Here, I will be uploading side projects, notes, as well as other small experiments.
 <!--
 **Sylphara/Sylphara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Brandon, an ECE focused student in Pennsylvania.
+My name is Brandon, an ECE focused student in Pennsylvania.
 
 I am working with C and Linux in order to learn more about low-level programming.
 

@@ -9,7 +9,7 @@ Here, I will be uploading side projects, notes, as well as other small experimen
 ## Tools & Tech
 
 - C, Linux
-- Arduino/Embedded Softwares
+- Arduino/Embedded Hardware
 
 <!--
 **Sylphara/Sylphara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
